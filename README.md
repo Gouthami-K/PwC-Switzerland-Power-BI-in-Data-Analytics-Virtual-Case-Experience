@@ -57,3 +57,7 @@ Here is a hint: Calculating the following **measures** could help to define prop
  - [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=zYi2CnpbWjhcS7sAk)
  
 
+## Certification
+Congratulations! I have obtained the certification.
+
+![Certification](res\pwc-certification.jpg)
