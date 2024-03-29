@@ -60,4 +60,5 @@ Here is a hint: Calculating the following **measures** could help to define prop
 ## Certification
 Congratulations! I have obtained the certification.
 
-![Certification](res\pwc-certification.jpg)
+![Certification](./res/pwc-certification.jpg)
+
